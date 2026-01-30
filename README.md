@@ -1,0 +1,1 @@
+# ANALYSIS_OF_GENE_NCBI_lacz_gene_E.coli
